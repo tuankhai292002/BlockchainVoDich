@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "elliptic": "^6.5.4",
+    "ws": "^8.11.0"
+  }
+  
+}
